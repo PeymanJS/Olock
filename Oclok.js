@@ -10,6 +10,7 @@ function showTime(){
     var s = date.getSeconds();
 
     var session ="AM";
+   
 
     if (h == 0) {
         h = 12
